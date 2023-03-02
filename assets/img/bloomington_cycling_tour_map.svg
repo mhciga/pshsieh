@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 841.9" style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D1D3D4;stroke:#D1D3D4;stroke-miterlimit:10;}
+	.st1{fill:#6D6E71;stroke:#808285;stroke-width:0.25;stroke-miterlimit:10;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:8px;}
+	.st4{fill:#6D6E71;}
+	.st5{fill:#EAF3E3;}
+	.st6{fill:#58595B;}
+	.st7{font-family:'GranthaSangamMN-Bold';}
+	.st8{font-size:20px;}
+	.st9{font-family:'GranthaSangamMN-Regular';}
+	.st10{font-size:16px;}
+	.st11{fill:#ED1C24;}
+	.st12{fill:#39B54A;}
+	.st13{font-family:'GillSans-BoldItalic';}
+	.st14{font-size:28px;}
+</style>
+<g id="base">
+</g>
+<g id="bottom">
+	<rect y="807.5" class="st0" width="595.3" height="34.4"/>
+</g>
+<g id="reforence">
+	<text transform="matrix(1 0 0 1 28.1318 816.9844)" class="st1 st2 st3">*Data Source</text>
+	<text transform="matrix(1 0 0 1 28.1322 826.9885)" class="st4 st2 st3">1. Bloomington-Monroe County Bicycle Map (2017), The City of Bloomington and Monroe County Planning Department</text>
+	<text transform="matrix(1 0 0 1 28.2221 836.5771)" class="st4 st2 st3">2. Google Map</text>
+</g>
+<g id="cycle_elevation">
+	
+		<image style="overflow:visible;" width="3508" height="1205" xlink:href="bike route elevation_no frame.png"  transform="matrix(0.1692 0 0 0.1692 0.8057 604.1578)">
+	</image>
+</g>
+<g id="cycle_map">
+	
+		<image style="overflow:visible;" width="3186" height="2459" xlink:href="Bloomington Bike Route Map_no frame.png"  transform="matrix(0.1863 0 0 0.1863 0.8962 174.2985)">
+	</image>
+</g>
+<g id="top_backgraound">
+	<rect x="0.9" y="1" class="st5" width="594.7" height="178.3"/>
+</g>
+<g id="Note">
+	<text transform="matrix(1 0 0 1 37.1745 78.9119)" class="st6 st7 st8">When you are cycling, YOU SHOULD KNOW:</text>
+	<text transform="matrix(1 0 0 1 76.3317 105.0272)"><tspan x="0" y="0" class="st6 st9 st10">When bumping into emergent events, call </tspan><tspan x="289.8" y="0" class="st11 st7 st10">9-1-1</tspan><tspan x="330.9" y="0" class="st6 st9 st10">.</tspan></text>
+	<text transform="matrix(1 0 0 1 76.9472 163.9525)" class="st6 st9 st10">Wear bright blinking lights when cycling at night.</text>
+	<text transform="matrix(1 0 0 1 76.3317 132.4405)" class="st6 st9 st10">Pass buses on the left and watch for right turns.</text>
+	
+		<image style="overflow:visible;" width="512" height="512" xlink:href="pic/bicycle.png"  transform="matrix(5.584143e-02 0 0 5.584143e-02 37.614 82.9158)">
+	</image>
+	
+		<image style="overflow:visible;" width="512" height="512" xlink:href="pic/bicycle.png"  transform="matrix(5.584143e-02 0 0 5.584143e-02 37.614 111.5066)">
+	</image>
+	
+		<image style="overflow:visible;" width="512" height="512" xlink:href="pic/bicycle.png"  transform="matrix(5.584143e-02 0 0 5.584143e-02 37.6141 137.704)">
+	</image>
+</g>
+<g id="title">
+	<g>
+		
+			<image style="overflow:visible;opacity:0.2;" width="1781" height="152" xlink:href="4D883C06104A8BB9.png"  transform="matrix(0.24 0 0 0.24 26.04 19.08)">
+		</image>
+		<g>
+			<text transform="matrix(1 0 0 1 28.2219 44.8065)" class="st12 st13 st14">Bloomington Cycling Tour Map</text>
+		</g>
+	</g>
+</g>
+</svg>
