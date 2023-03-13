@@ -36,7 +36,7 @@ section {
 	margin-bottom:25px;
 	font-weight:700;
 	font-size:1.4rem;
-	margin-bottom:27px;
+	margin-bottom:5px;
 }
 .section-title li {
 	font-weight:400;
@@ -487,3 +487,23 @@ figure {
 	color:rgba(0,0,0,.44); 
 	font-size: 0.8rem;
 }
+
+.resume-section {
+	margin-left:20px;
+	margin-right:32px;  
+	color:rgba(0,0,0,.6); 
+	font-size: 0.95rem;
+	line-height: 2;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+  }
+  
+  td, th {
+	text-align: left;
+	padding: 8px;
+  }
+  
+ 
