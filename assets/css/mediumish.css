@@ -216,7 +216,6 @@ span.post-name a,span.post-read-more a:hover {
 }
 .mainheading h1.posttitle {
 	font-weight:700;
-	margin-bottom:1rem;
 }
 .footer {
 	border-top:1px solid rgba(0,0,0,.05)!important;
@@ -233,6 +232,10 @@ span.post-name a,span.post-read-more a:hover {
 	font-size:1rem;
 	line-height:1.8;
 	color:rgba(0,0,0,.8);
+}
+
+.article-post h2{
+	margin-top:54px;
 }
 
 blockquote {
