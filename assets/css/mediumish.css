@@ -254,7 +254,13 @@ blockquote {
 	border: solid rgb(202, 199, 199);
 	width: 80%;
 }
-
+.featured-image-small {
+	display:block;
+	margin:0px auto;
+	margin-bottom:0.2rem;
+	border: solid rgb(202, 199, 199);
+	width: 40%;
+}
 .share {
 	text-align:center;
 	margin-top:20px;
