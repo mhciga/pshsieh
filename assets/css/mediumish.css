@@ -255,13 +255,6 @@ blockquote {
 	width: 80%;
 }
 
-.featured-image-small {
-	display:inline;	
-	margin-bottom:0.2rem;
-	border: solid rgb(202, 199, 199);
-	width: 50%;
-}
-
 .share {
 	text-align:center;
 	margin-top:20px;
