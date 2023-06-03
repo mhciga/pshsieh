@@ -42,6 +42,11 @@ section {
 	font-weight:400;
 	font-size:1.4rem;
 }
+
+.section-title ol li{
+	font-size: 1rem;
+}
+
 .section-title span {
 	border-bottom:1px solid rgba(0,0,0,.44);
 	display:inline-block;
@@ -351,6 +356,10 @@ ul.tags {
 	margin:0 0 3rem 0;
 }
 ul.tags li {
+	display:inline-block;
+	font-size:0.9rem;
+}
+ol.tags li {
 	display:inline-block;
 	font-size:0.9rem;
 }
