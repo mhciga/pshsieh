@@ -97,13 +97,32 @@ section {
 	line-height: 1.25;
 	text-align: left;
 }
+
+.listfeaturedtag h3.card-title, .listrecent h3.card-title {
+	font-size:1.3rem;
+	font-weight:700;
+	line-height: 1.25;
+	text-align: left;
+}
+
 .listfeaturedtag h2.card-title a,.listrecent h2.card-title a {
 	color:rgba(0,0,0,.8);
 }
+
+.listfeaturedtag h3.card-title a,.listrecent h3.card-title a {
+	color:rgba(0,0,0,.8);
+}
+
 .listfeaturedtag h2.card-title a:hover,.listrecent h2.card-title a:hover {
 	color:rgba(0,0,0,.6);
 	text-decoration:none;
 }
+
+.listfeaturedtag h3.card-title a:hover,.listrecent h3.card-title a:hover {
+	color:rgba(0,0,0,.6);
+	text-decoration:none;
+}
+
 .listfeaturedtag h4.card-text,.listrecent h4.card-text {
 	color:rgba(0,0,0,.44);
 	font-size:0.95rem;
